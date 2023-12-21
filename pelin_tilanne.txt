@@ -1,0 +1,4 @@
+Lauri: {'paikkaLaudalla': 0, 'pisteet': 0, 'lupaLiikkua': False, 'maalit': 0}
+Tolone: {'paikkaLaudalla': 10, 'pisteet': 3, 'lupaLiikkua': True, 'maalit': 0}
+Salmu: {'paikkaLaudalla': 0, 'pisteet': 0, 'lupaLiikkua': False, 'maalit': 0}
+Purane: {'paikkaLaudalla': 0, 'pisteet': 0, 'lupaLiikkua': False, 'maalit': 0}
